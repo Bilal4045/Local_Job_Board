@@ -33,10 +33,9 @@ DevOps:
 - Docker
 - Docker Compose
 
----
-
 ## 📁 Project Structure
 
+```text
 my-app/
 ├── backend/
 │   ├── main.py
@@ -54,8 +53,6 @@ my-app/
 ├── docker-compose.yml
 ├── .env
 └── README.md
-
----
 
 ## Setup & Installation
 
