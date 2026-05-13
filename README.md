@@ -53,7 +53,7 @@ my-app/
 ├── docker-compose.yml
 ├── .env
 └── README.md
-
+```
 ## Setup & Installation
 
 ### 1️ Clone repository
